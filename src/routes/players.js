@@ -1,4 +1,3 @@
-// routes/players.js
 const express = require('express');
 const playersController = require('../controllers/playersController');
 

@@ -1,4 +1,3 @@
-// controllers/playersController.js
 const Player = require('../models/player');
 
 exports.getAllPlayers = async (req, res) => {
